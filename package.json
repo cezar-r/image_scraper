@@ -1,0 +1,17 @@
+{
+  "name": "captcha_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pexel_api.js",
+  "type": "module",
+  "dependencies": {
+    "pexels": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
